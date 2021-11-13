@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "module": "CommonJS",
+    "noImplicitAny": true,
+    "sourceMap": true,
+    "outDir": "dist/backend"
+  },
+  "include": [
+    "src/backend/**/*"
+  ]
+}
